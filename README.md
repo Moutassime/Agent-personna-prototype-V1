@@ -1,5 +1,6 @@
 # SaaS persona builder
 
+Made with love by Mouatassime Seiv
 
 ## Getting Started
 
@@ -22,6 +23,7 @@ yarn dev
 # or
 pnpm dev
 ```
+Node module must be installed with "npm install @radix-ui/react-label"
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
