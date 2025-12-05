@@ -1,4 +1,5 @@
 # SaaS persona builder
+![Logo PersonaSusanoo](PERSONASUSANOO_Log(personasanoo_logo.png))
 
 Made with love by Mouatassime Seiv
 
