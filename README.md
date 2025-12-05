@@ -1,7 +1,7 @@
 # SaaS persona builder
 ![Logo PersonaSusanoo](personasusanoo_logo.png)
 
-Made with love by Mouatassime Seiv
+Made with love by Mouatassime Seiv :purple_heart:
 
 ## Getting Started
 
